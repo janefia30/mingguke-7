@@ -1,0 +1,1 @@
+buka foldernya di cmd ,langsung npm init -y(untuk mengkonfirmasi semua pertanyaan dari npm)
